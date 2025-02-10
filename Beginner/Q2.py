@@ -1,4 +1,4 @@
-inp=input("enter string:")
+inp=input("enter string: ")
 
 alpha=0
 digit=0
